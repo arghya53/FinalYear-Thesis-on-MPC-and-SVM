@@ -7,3 +7,4 @@ trarily chosen constant will be selected for the optimization of cost function
 instead of going through any algorithmic approach. On the other hand, a
 simplified algorithm will be followed for allocating reference vector in differ-
 ent regions of space for SVM to minimize calculation complexities. 
+We have applied MATLAB and SIMULINK to model this comparative analysis.
